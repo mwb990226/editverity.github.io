@@ -1,3 +1,7 @@
 theme: jekyll-theme-cayman
 title: EditVerity Sciences, Inc.
 
+# force-disable Cayman subtitle
+description: ""
+github:
+  project_tagline: ""
