@@ -1,3 +1,5 @@
+[Home](/) · **Technology** · [About](/about) · [Contact](/contact)
+
 # Technology
 
 Standard sequencing workflows often collapse molecular diversity  
