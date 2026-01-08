@@ -1,3 +1,5 @@
+[Home](/) · [Technology](/technology) · [About](/about) · **Contact**
+
 # Contact
 
 We are happy to discuss:
