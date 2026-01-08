@@ -1,3 +1,5 @@
+[Home](/) · [Technology](/technology) · **About** · [Contact](/contact)
+
 # About EditVerity
 
 EditVerity Sciences, Inc. was founded to address a critical bottleneck  
