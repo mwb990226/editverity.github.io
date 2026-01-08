@@ -3,6 +3,8 @@ layout: default
 title: EditVerity Sciences, Inc.
 ---
 
+[Home](/) · [Technology](/technology) · [About](/about) · [Contact](/contact)
+
 ## Making genome editing outcomes fully visible.
 
 EditVerity provides **error-suppressed sequencing** and **outcome interpretation**
